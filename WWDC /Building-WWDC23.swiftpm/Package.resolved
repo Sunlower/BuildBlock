@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "focusentity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Sunlower/FocusEntity.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9ce112dbc72ceb3221be8546248494f3eba63192"
+      }
+    }
+  ],
+  "version" : 2
+}

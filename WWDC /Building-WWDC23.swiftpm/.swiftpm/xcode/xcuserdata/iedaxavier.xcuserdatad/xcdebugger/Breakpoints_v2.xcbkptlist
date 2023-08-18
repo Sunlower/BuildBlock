@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "429EDE23-E694-4A1C-AA56-D5EE86CE7794"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53D9CA30-B7CF-4555-8B43-21E8D083284E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D820AC7-6D30-471F-8AE3-F26B38451F20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ViewPickerModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4D820AC7-6D30-471F-8AE3-F26B38451F20 - 77193f5d722bf4de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0&gt;&gt; in BuildCastle_WWDC23.ViewPickerModel.body.getter : some"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "292">
+               </Location>
+               <Location
+                  uuid = "4D820AC7-6D30-471F-8AE3-F26B38451F20 - a6fa66f3882204c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0&gt;&gt; in BuildCastle_WWDC23.ViewPickerModel.body.getter : some"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD57E9E2-E82C-4A1F-9D2A-9C0AD964B5E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/CustomScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD57E9E2-E82C-4A1F-9D2A-9C0AD964B5E3 - 1a26c18a52fa093f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.CustonScene.init(frame: __C.CGRect) -&gt; BuildCastle_WWDC23.CustonScene"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/CustomScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "CD57E9E2-E82C-4A1F-9D2A-9C0AD964B5E3 - 1a26c18a52fa09dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.CustonScene.init(frame: __C.CGRect) -&gt; BuildCastle_WWDC23.CustonScene"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/CustomScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3D3ADD3-5F40-4205-947B-050475721B4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/CustomScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3D3ADD3-5F40-4205-947B-050475721B4B - 1a26c18a52fa099a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.CustonScene.init(frame: __C.CGRect) -&gt; BuildCastle_WWDC23.CustonScene"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/CustomScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "244">
+               </Location>
+               <Location
+                  uuid = "E3D3ADD3-5F40-4205-947B-050475721B4B - 1a26c18a52fa099a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.CustonScene.init(frame: __C.CGRect) -&gt; BuildCastle_WWDC23.CustonScene"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/CustomScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "260">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EFDEAE8-F3B6-4C29-A666-E6F5D24063A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ViewPickerModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E919A36F-0B33-45D3-97AA-DD85EE767345"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ViewPickerModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "ViewPickerModel"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "E919A36F-0B33-45D3-97AA-DD85EE767345 - 3fc8848bab4128d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ViewPickerModel.selectedModelPlacement.getter : Swift.Optional&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "E919A36F-0B33-45D3-97AA-DD85EE767345 - c4403628d36280e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ViewPickerModel.selectedModelPlacement.setter : Swift.Optional&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "E919A36F-0B33-45D3-97AA-DD85EE767345 - 3f28aa14e565a2d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ViewPickerModel.selectedModelPlacement.modify : Swift.Optional&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "E919A36F-0B33-45D3-97AA-DD85EE767345 - 6d7dfb8b42a03aac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ViewPickerModel.selectedModelPlacement.modify : Swift.Optional&lt;BuildCastle_WWDC23.Model&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "E919A36F-0B33-45D3-97AA-DD85EE767345 - cd0cb4ec78076d3e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ViewPickerModel.$selectedModelPlacement.getter : SwiftUI.Binding&lt;Swift.Optional&lt;BuildCastle_WWDC23.Model&gt;&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE08742C-349A-425C-B6AA-37DC32EBEFB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1EC8D98-20D4-42A7-B726-47A3DFE523A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ViewPickerModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "C1EC8D98-20D4-42A7-B726-47A3DFE523A7 - f73e6a88cd74f83b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ViewPickerModel.body.getter : some"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "C1EC8D98-20D4-42A7-B726-47A3DFE523A7 - 9fc951bec93a563f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.HStack&lt;SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0&gt;&gt; in BuildCastle_WWDC23.ViewPickerModel.body.getter : some"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ViewPickerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "424">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11E8F360-FFB3-4641-867E-BDC8A9C70E9A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "models"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "11E8F360-FFB3-4641-867E-BDC8A9C70E9A - cc40960e33ac4b79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Array&lt;BuildCastle_WWDC23.Model&gt; in variable initialization expression of BuildCastle_WWDC23.ContentView.models : Swift.Array&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1740">
+               </Location>
+               <Location
+                  uuid = "11E8F360-FFB3-4641-867E-BDC8A9C70E9A - cc40960e33ac4b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Array&lt;BuildCastle_WWDC23.Model&gt; in variable initialization expression of BuildCastle_WWDC23.ContentView.models : Swift.Array&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D908BB9-4D70-40AC-A360-9643C3270E47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "models"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9D908BB9-4D70-40AC-A360-9643C3270E47 - cc40960e33acb5e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Array&lt;BuildCastle_WWDC23.Model&gt; in variable initialization expression of BuildCastle_WWDC23.ContentView.models : Swift.Array&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "9D908BB9-4D70-40AC-A360-9643C3270E47 - cc40960e33acb5e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Array&lt;BuildCastle_WWDC23.Model&gt; in variable initialization expression of BuildCastle_WWDC23.ContentView.models : Swift.Array&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "9D908BB9-4D70-40AC-A360-9643C3270E47 - cc40960e33acb5e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Swift.Array&lt;BuildCastle_WWDC23.Model&gt; in variable initialization expression of BuildCastle_WWDC23.ContentView.models : Swift.Array&lt;BuildCastle_WWDC23.Model&gt;"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/SceneKitView/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2728B847-CF82-4EC8-8D77-958759FE2E1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "gestureStateFirstHit(firstResult:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B903395F-4777-403D-AC2F-E22763B4A795"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SceneKitView/Extensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "handlePan(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F14DB55-6CCB-42BC-B50C-4EB56EFEEFC5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitView/ArViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFF1473-AD0E-4EFF-9C19-232A3157C2E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitView/ArViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10607B71-F98A-40C2-B22F-DCEC6BB90037"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitView/ArViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10607B71-F98A-40C2-B22F-DCEC6BB90037 - ac765321d50b526f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ARViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;BuildCastle_WWDC23.ARViewContainer&gt;) -&gt; ()"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/ARKitView/ArViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1748">
+               </Location>
+               <Location
+                  uuid = "10607B71-F98A-40C2-B22F-DCEC6BB90037 - ac765321d50b526f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ARViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;BuildCastle_WWDC23.ARViewContainer&gt;) -&gt; ()"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/ARKitView/ArViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B9431E9-0284-4EE9-AD2B-67A5F93445F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ARKitView/ArViewContainer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B9431E9-0284-4EE9-AD2B-67A5F93445F5 - ac765321d50b526f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ARViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;BuildCastle_WWDC23.ARViewContainer&gt;) -&gt; ()"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/ARKitView/ArViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1752">
+               </Location>
+               <Location
+                  uuid = "1B9431E9-0284-4EE9-AD2B-67A5F93445F5 - ac765321d50b526f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ARViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;BuildCastle_WWDC23.ARViewContainer&gt;) -&gt; ()"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/ARKitView/ArViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1860">
+               </Location>
+               <Location
+                  uuid = "1B9431E9-0284-4EE9-AD2B-67A5F93445F5 - ac765321d50b526f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ARViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;BuildCastle_WWDC23.ARViewContainer&gt;) -&gt; ()"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/ARKitView/ArViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1748">
+               </Location>
+               <Location
+                  uuid = "1B9431E9-0284-4EE9-AD2B-67A5F93445F5 - ac765321d50b526f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BuildCastle_WWDC23.ARViewContainer.updateUIView(_: RealityKit.ARView, context: SwiftUI.UIViewRepresentableContext&lt;BuildCastle_WWDC23.ARViewContainer&gt;) -&gt; ()"
+                  moduleName = "BuildCastle-WWDC23"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iedaxavier/Desktop/BuildCastle-WWDC23.swiftpm/ARKitView/ArViewContainer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
